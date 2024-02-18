@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatDeSavoie
-- 👀 I’m interested in symfony and CVS
+- 👀 I’m interested in symfony and source code hosts
 - 🌱 I’m currently learning symfony
 - 💞️ I’m looking to collaborate on meaningfull projects as soon as I will be good enough for it.
 
